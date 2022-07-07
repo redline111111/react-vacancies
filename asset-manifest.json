@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-vacations/static/css/main.a3efad7c.css",
+    "main.js": "/react-vacations/static/js/main.81c634d3.js",
+    "static/media/bg-header-desktop.svg": "/react-vacations/static/media/bg-header-desktop.8694f4668c94cdc9d16e.svg",
+    "index.html": "/react-vacations/index.html",
+    "static/media/bg-header-mobile.svg": "/react-vacations/static/media/bg-header-mobile.9cb13612af1317a665a2.svg",
+    "static/media/icon-remove.svg": "/react-vacations/static/media/icon-remove.70c075ce001e5ccae7c68a570c4b7bc0.svg",
+    "main.a3efad7c.css.map": "/react-vacations/static/css/main.a3efad7c.css.map",
+    "main.81c634d3.js.map": "/react-vacations/static/js/main.81c634d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3efad7c.css",
+    "static/js/main.81c634d3.js"
+  ]
+}
